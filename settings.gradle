@@ -1,0 +1,11 @@
+buildCache {
+local {
+enabled = false
+}
+remote(HttpBuildCache) {
+url = "https://gradle.company.com/cache/"
+push = true
+}
+}
+
+rootProject.name = 'gradle-builds'
