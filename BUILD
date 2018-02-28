@@ -1,4 +1,4 @@
 cc_binary(
-	name = "practice"
+	name = "practice",
 	srcs = ["practice.cpp"],
 )
