@@ -1,4 +1,4 @@
-<?xml version = "2.0"?>
+<?xml version = "1.0"?>
    <project name = "SAGE-CI-Deploy" default = "deploy" xmlns:sf = "antlib:com.salesforce">
       <property file = "/Users/mannesiddhardha/ANT-Pro/build.properties"/>
       
