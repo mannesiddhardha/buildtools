@@ -2,7 +2,7 @@
    <project name = "SAGE-CI-Deploy" default = "deploy" xmlns:sf = "antlib:com.salesforce">
       <property file = "/Users/mannesiddhardha/ANT-Pro/build.properties"/>
       
-      <taskdef resource = "com/salesforce/antlib.xml" uri = "antlib:com.salesforce">
+      <taskdef resource = "com/salesforce/antlib.xml" url = "antlib:com.salesforce">
          <classpath>
             <pathelement location = "/usr/local/Cellar/ant/1.10.1/libexec/lib/ant-salesforce.jar"/>
             </classpath>
