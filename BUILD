@@ -1,4 +1,4 @@
-cc_binary(
-	name = "practice",
-	srcs = ["practice.cpp"],
+py_binary(
+    name = "test",
+    srcs = glob(["*.py"]),
 )
