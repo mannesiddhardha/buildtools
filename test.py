@@ -1,3 +1,3 @@
 #!/usr/bin/env python
 
-print("Hello World!")
+print("bazel python binary target test to print Hello World")
